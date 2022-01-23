@@ -132,7 +132,7 @@
 #define RAIN_TOPY                  40
 #define RAIN_XLEN                  161
 #define RAIN_YLEN                  160
-#define RAIN_READINGS              24
+#define RAIN_READINGS 24
 
 /* MHZ Error codes  0   NULL, Library logic error, should not occur
                     1   OK
