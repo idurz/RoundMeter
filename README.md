@@ -31,6 +31,9 @@ The WaveShare 1.18 Inch LCD display uses a SPI interface. Connect the following 
 - Grey (BL) to Wemos 5V _(shared with sensor)_
 - Brown (RST) to Wemos D4
 
+### The Box
+The box is designed with [TinkerCad](https://www.tinkercad.com/things/4qZ85xxE9la-128-round-lcd-2). Download or change the box there, or simply download the STL file from the /box design directory.
+
 ### Software
 I used Visual Studio Code with the Platform IO extension to create and upload the code to the Wemos. It will work with e.g. the Arduino editor as well, but you might need to change some library references etc.
 
